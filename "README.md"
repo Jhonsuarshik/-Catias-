@@ -1,0 +1,10 @@
+# Catias: Tu asistente virtual personal
+
+Catias es un proyecto de inteligencia artificial que tiene como objetivo desarrollar un asistente virtual versátil y adaptable. Utilizando técnicas de procesamiento de lenguaje natural y aprendizaje automático, Catias será capaz de:
+
+* **Responder preguntas:** Proporcionar información precisa y concisa sobre una amplia gama de temas.
+* **Generar contenido:** Crear textos creativos como poemas, historias y artículos.
+* **Asistir en tareas diarias:** Ayudar con la gestión de calendarios, recordatorios y tareas.
+* **Ofrecer soporte técnico:** Proporcionar soluciones a problemas técnicos comunes.
+
+Catias está construido utilizando Python y frameworks como TensorFlow y Transformers.
